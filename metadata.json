@@ -1,0 +1,5 @@
+{
+  "name": "hk Ai video Generator",
+  "description": "An AI-powered application to generate animated videos from a starting image and text instructions. Describe the animation, provide dialogue, and watch your image come to life.",
+  "requestFramePermissions": []
+}
